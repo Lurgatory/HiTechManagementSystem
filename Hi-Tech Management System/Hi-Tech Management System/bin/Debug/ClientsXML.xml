@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clents>
+    <Client ClientID="2222">
+        <ClientName>LaSalle</ClientName>
+        <Address>888 rue Long</Address>
+        <City>Laval</City>
+        <PostalCode>R4E 3K4</PostalCode>
+        <PhoneNumber>(145)-824-5242</PhoneNumber>
+        <FaxNumber>(655)-546-1985</FaxNumber>
+        <BankAccount>1568461656</BankAccount>
+        <CreditLimit>100</CreditLimit>
+    </Client>
+    <Client ClientID="1111">
+        <ClientName>McGill</ClientName>
+        <Address>123 rue Bouledd</Address>
+        <City>Montreal</City>
+        <PostalCode>W2W 2W2</PostalCode>
+        <PhoneNumber>(124) 586-5236</PhoneNumber>
+        <FaxNumber>(458) 965-2341</FaxNumber>
+        <BankAccount>123456789</BankAccount>
+        <CreditLimit>20000</CreditLimit>
+    </Client>
+</Clents>

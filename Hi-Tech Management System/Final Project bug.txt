@@ -1,0 +1,31 @@
+08-04-2021
+
+- No input on ID search. (Done)
+
+- User ListView can't show the list （DONE)
+
+2021/04/19
+
+{FormEmployeeUser}
+1. login person can't match with the data as position [userid and password save in user.dat, jobtitle save in employee.dat] (DONE)
+2. login with null input will show error (DONE)
+3. Job title combox display error (DONE)
+4. Save date data with HH:MM:SS.
+5. User duplicate (DONE)
+6. User Update status show EmployeeID (DONE)
+7. Input can't be null (DONE)
+
+2021/04/21
+{FEU}
+1. disable the upgrade and delete button until user search (DONE)
+
+2021/04/21
+1. UserDA search Jobtitle (hint: user: employee)
+
+2021/4/24
+1.Update empid or pdtid can't erase the old one. 
+2.Update authorid (done)
+3.Validators 
+4.Duplicate bugs when no files 
+5.Validation 
+

@@ -1,0 +1,29 @@
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\bin\Debug\Hi-Tech Management System.exe.config
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\bin\Debug\Hi-Tech Management System.exe
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\bin\Debug\Hi-Tech Management System.pdb
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.csprojAssemblyReference.cache
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.Properties.Resources.resources
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.csproj.GenerateResource.cache
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.csproj.CoreCompileInputs.cache
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.exe
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.pdb
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormEmployeeUser.resources
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormLogin.resources
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormClientUser.resources
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormProductUser.resources
+C:\C#_CT1\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormOrderUser.resources
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\bin\Debug\Hi-Tech Management System.exe.config
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\bin\Debug\Hi-Tech Management System.exe
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\bin\Debug\Hi-Tech Management System.pdb
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.csproj.AssemblyReference.cache
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormClientUser.resources
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormEmployeeUser.resources
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormLogin.resources
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormOrderUser.resources
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.GUI.FormProductUser.resources
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi_Tech_Management_System.Properties.Resources.resources
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.csproj.GenerateResource.cache
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.exe
+C:\Users\Luke\Downloads\20210427194129_Hi-Tech_Management_System-Final_ShengxiongLu\Hi-Tech Management System\Hi-Tech Management System\obj\Debug\Hi-Tech Management System.pdb
